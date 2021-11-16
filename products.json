@@ -1,0 +1,481 @@
+{
+    "Categories": [
+        {
+            "Desc": "",
+            "Id": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "ImageId": "3dfee5af-1877-4b46-9e33-65274c159e8c",
+            "Name": "Eat"
+        },
+        {
+            "Desc": "",
+            "Id": "42DB3D40-BA93-4A08-845C-CCFF6984D399",
+            "ImageId": "1d1378ba-86b3-4fc0-a0b6-4c7729a2965f",
+            "Name": "Extra"
+        },
+        {
+            "Desc": "",
+            "Id": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "ImageId": "a532a24f-224f-41e9-b2ca-8577603153ca",
+            "Name": "Drink"
+        }
+    ],
+    "Discounts": [
+        {
+            "Codes": null,
+            "Name": "MM/75K/Gold",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 1,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Guest Inconvenience",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 2,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Premium Class",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 3,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Bad Credit Card",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 4,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "1 Hour + Delay",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 5,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Card Reader Malfunction",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 6,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "UM/Teen Assist",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 7,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Damaged Product",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 8,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "DH Crew Meal",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 9,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Captain Request",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 10,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Make-A-Wish Child/Sibling",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 11,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Coupon/Voucher",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 12,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Windowless Seat",
+            "PercentOff": 100,
+            "Quantity": 0,
+            "SortOrder": 13,
+            "TargetId": null,
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Crew Meal",
+            "PercentOff": 50,
+            "Quantity": 1,
+            "SortOrder": 1,
+            "TargetId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Type": "Manual"
+        },
+        {
+            "Codes": null,
+            "Name": "Military Meal ",
+            "PercentOff": 15,
+            "Quantity": 1,
+            "SortOrder": 2,
+            "TargetId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Type": "Manual"
+        },
+        {
+            "Codes": "G75",
+            "Name": "Comp 1 Drink for Gold 75Ks",
+            "PercentOff": 100,
+            "Quantity": 1,
+            "SortOrder": 0,
+            "TargetId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Type": "Auto"
+        },
+        {
+            "Codes": "G75",
+            "Name": "Comp 1 IFE for Gold 75Ks",
+            "PercentOff": 100,
+            "Quantity": 1,
+            "SortOrder": 0,
+            "TargetId": "A6B9221E-044D-4296-B245-DEA990FAFA54",
+            "Type": "Auto"
+        },
+        {
+            "Codes": "GLD",
+            "Name": "Comp 1 Drink for Golds",
+            "PercentOff": 100,
+            "Quantity": 1,
+            "SortOrder": 0,
+            "TargetId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Type": "Auto"
+        },
+        {
+            "Codes": "MM",
+            "Name": "Comp Drinks for Million Milers",
+            "PercentOff": 100,
+            "Quantity": 999,
+            "SortOrder": 0,
+            "TargetId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Type": "Auto"
+        },
+        {
+            "Codes": "MM",
+            "Name": "Comp Food for Million Milers",
+            "PercentOff": 100,
+            "Quantity": 999,
+            "SortOrder": 0,
+            "TargetId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Type": "Auto"
+        },
+        {
+            "Codes": "MM",
+            "Name": "Comp 1 IFE for Million Milers",
+            "PercentOff": 100,
+            "Quantity": 1,
+            "SortOrder": 0,
+            "TargetId": "A6B9221E-044D-4296-B245-DEA990FAFA54",
+            "Type": "Auto"
+        },
+        {
+            "Codes": "UMNR",
+            "Name": "Comp 1 Food Item for Unaccompanied Minors",
+            "PercentOff": 100,
+            "Quantity": 1,
+            "SortOrder": 0,
+            "TargetId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Type": "Auto"
+        },
+        {
+            "Codes": "UMNR",
+            "Name": "Comp 1 IFE for Unaccompanied Minors",
+            "PercentOff": 100,
+            "Quantity": 1,
+            "SortOrder": 0,
+            "TargetId": "A6B9221E-044D-4296-B245-DEA990FAFA54",
+            "Type": "Auto"
+        },
+        {
+            "Codes": "EMD",
+            "Name": "Comp 1 Drink for oneworld Emerald",
+            "PercentOff": 100,
+            "Quantity": 1,
+            "SortOrder": 0,
+            "TargetId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Type": "Auto"
+        },
+        {
+            "Codes": "SPH",
+            "Name": "Comp 1 Drink for oneworld Sapphire",
+            "PercentOff": 100,
+            "Quantity": 1,
+            "SortOrder": 0,
+            "TargetId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Type": "Auto"
+        }
+    ],
+    "FlightDetails": {
+        "AirlineCode": "AS",
+        "ArrivalAirportCode": "DFW",
+        "DepartureAirportCode": "SEA",
+        "DepartureDate": "2021-11-05",
+        "FlightNumber": "716"
+    },
+    "Products": [
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "0B39F042-0D40-4DE6-942B-D2C93F34F919",
+            "ImageId": "8b06f2d7-0a7d-4028-9612-d1d388c5cd17",
+            "IsRental": false,
+            "MealCode": null,
+            "Name": "Potato Chips",
+            "Price": 2.00,
+            "SortOrder": 10
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "0E91D054-37B5-4341-9CC6-B799E372D800",
+            "ImageId": "985a60e0-ac6a-4249-99ec-2b5e10bdd330",
+            "IsRental": false,
+            "MealCode": "40083",
+            "Name": "Lunch/Dinner Sandwich/Wrap",
+            "Price": 9.50,
+            "SortOrder": 4
+        },
+        {
+            "CategoryId": "42DB3D40-BA93-4A08-845C-CCFF6984D399",
+            "Desc": "",
+            "Id": "18A6F744-6613-40FA-B995-7208F470D024",
+            "ImageId": "3ec32507-4504-4ad2-992d-493d06342547",
+            "IsRental": false,
+            "MealCode": null,
+            "Name": "Earbuds",
+            "Price": 3.00,
+            "SortOrder": 0
+        },
+        {
+            "CategoryId": "42DB3D40-BA93-4A08-845C-CCFF6984D399",
+            "Desc": "",
+            "Id": "24E113FF-E2F4-4260-8DCC-C95EFA9764BE",
+            "ImageId": "6625484c-9404-40e6-9e8d-941695af0d78",
+            "IsRental": false,
+            "MealCode": null,
+            "Name": "Premium Class",
+            "Price": 69.00,
+            "SortOrder": 23
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "44D44CD7-B398-49C4-875B-E466C1F93B94",
+            "ImageId": "c9d4dac6-1845-42e6-920c-f2e7ca149cbf",
+            "IsRental": false,
+            "MealCode": "PKIDS",
+            "Name": "Kids Choice",
+            "Price": 6.50,
+            "SortOrder": 9
+        },
+        {
+            "CategoryId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Desc": "",
+            "Id": "49684DC9-CE86-4732-8BB5-6006CF5A522F",
+            "ImageId": "480d3c11-0c86-4047-be45-90b202944b19",
+            "IsRental": false,
+            "MealCode": "REDWINE",
+            "Name": "Red Wine",
+            "Price": 7.50,
+            "SortOrder": 19
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "517CE103-B746-40E8-993F-C23ED8B753FA",
+            "ImageId": "6ae7c429-28da-471d-8e4d-cf550dff7432",
+            "IsRental": false,
+            "MealCode": null,
+            "Name": "Chocolate Almonds",
+            "Price": 3.00,
+            "SortOrder": 15
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "5A5E7B07-DD47-4919-B729-A27ECACAD06D",
+            "ImageId": "ccb36577-0813-412c-ae7d-a65d65737ec7",
+            "IsRental": false,
+            "MealCode": null,
+            "Name": "Popcorn",
+            "Price": 2.00,
+            "SortOrder": 11
+        },
+        {
+            "CategoryId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Desc": "",
+            "Id": "5AAB8490-1EEB-4566-B1F1-650E7EA11829",
+            "ImageId": "ea5e1f57-9e93-43ec-b63f-406f6c8e3679",
+            "IsRental": false,
+            "MealCode": null,
+            "Name": "Sparkling Wine",
+            "Price": 8.50,
+            "SortOrder": 21
+        },
+        {
+            "CategoryId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Desc": "",
+            "Id": "5BD6450F-4117-4B7D-A29E-87FB44DD6440",
+            "ImageId": "297b6ba4-1de6-4ff7-a4fb-fc8d7e968db5",
+            "IsRental": false,
+            "MealCode": "BEER",
+            "Name": "Beer",
+            "Price": 7.50,
+            "SortOrder": 18
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "5CD21951-5364-43A4-BEC8-883E920BE8FD",
+            "ImageId": "9881248a-492d-4f29-814c-ae0d159b50bd",
+            "IsRental": false,
+            "MealCode": "40071",
+            "Name": "Breakfast Protein Platter",
+            "Price": 9.50,
+            "SortOrder": 3
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "64710074-C730-40DE-9B7F-3E5DE0698185",
+            "ImageId": "29c9f330-e15a-4cc2-87b6-530c4b8d61a3",
+            "IsRental": false,
+            "MealCode": "PDELI",
+            "Name": "Deli Picnic Pack",
+            "Price": 6.50,
+            "SortOrder": 7
+        },
+        {
+            "CategoryId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Desc": "",
+            "Id": "807DB9EB-C5AB-40A2-A907-3B611B287A40",
+            "ImageId": "53eae2aa-9ce6-4aa5-86d2-9c74435702e3",
+            "IsRental": false,
+            "MealCode": "WHITEWINE",
+            "Name": "White Wine",
+            "Price": 7.50,
+            "SortOrder": 20
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "BE930B4C-32B6-4910-8BF5-C1915D1CFBBD",
+            "ImageId": "d8c0957f-1956-48c3-87cf-8efa0610fef2",
+            "IsRental": false,
+            "MealCode": "40072",
+            "Name": "Lunch/Dinner Protein Platter",
+            "Price": 9.50,
+            "SortOrder": 5
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "BEAE1C58-A18C-4825-AE88-690AF693C507",
+            "ImageId": "5bb24028-9ecb-4d5b-a1b7-eae086b5488f",
+            "IsRental": false,
+            "MealCode": "40066",
+            "Name": "Salad",
+            "Price": 9.50,
+            "SortOrder": 6
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "C8E72397-545E-4A96-8FBB-0C6415734F4A",
+            "ImageId": "f555b5e4-8ba5-482f-a784-a881300c0f09",
+            "IsRental": false,
+            "MealCode": "40013",
+            "Name": "Cheese Platter",
+            "Price": 8.50,
+            "SortOrder": 1
+        },
+        {
+            "CategoryId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Desc": "",
+            "Id": "CFA9B41E-C0E7-4695-AD2A-1E9B40D03886",
+            "ImageId": "87d57b12-0dec-4378-b63c-f57f0c7187dd",
+            "IsRental": false,
+            "MealCode": "COCKTAILS",
+            "Name": "Liquor",
+            "Price": 7.50,
+            "SortOrder": 17
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "D3FD958D-EBD8-4793-856F-CA908486A0FF",
+            "ImageId": "0fdc20ef-8517-4db5-a987-24201c412db4",
+            "IsRental": false,
+            "MealCode": "40040",
+            "Name": "Breakfast Wrap/Sandwich",
+            "Price": 8.50,
+            "SortOrder": 2
+        },
+        {
+            "CategoryId": "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc": "",
+            "Id": "F6605ADB-6EE2-44AB-9832-7CA8D3819EB6",
+            "ImageId": "25402aac-3642-4c07-a6b8-082df1f84eb8",
+            "IsRental": false,
+            "MealCode": "PTAPAS",
+            "Name": "Med Tapas",
+            "Price": 6.50,
+            "SortOrder": 8
+        }
+    ],
+    "RefundReasons": [
+        {
+            "Name": "Incorrect item sold",
+            "SortOrder": 1
+        },
+        {
+            "Name": "Item had quality issue",
+            "SortOrder": 2
+        },
+        {
+            "Name": "Guest dissatisfied with item",
+            "SortOrder": 3
+        }
+    ]
+}
