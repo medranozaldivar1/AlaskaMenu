@@ -1,0 +1,256 @@
+{
+  "Categories" : {
+    "Eat" : {
+      "Desc" : "",
+      "Products" : [
+        {
+          "Potato Chips" : {
+            "Desc" : "",
+            "SortOrder" : 10,
+            "Id" : "0B39F042-0D40-4DE6-942B-D2C93F34F919",
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "ImageId" : "8b06f2d7-0a7d-4028-9612-d1d388c5cd17",
+            "Name" : "Potato Chips",
+            "MealCode" : "",
+            "Price" : false
+          }
+        },
+        {
+          "Lunch\/Dinner Sandwich\/Wrap" : {
+            "MealCode" : "40083",
+            "SortOrder" : 4,
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Id" : "0E91D054-37B5-4341-9CC6-B799E372D800",
+            "Price" : false,
+            "Name" : "Lunch\/Dinner Sandwich\/Wrap",
+            "Desc" : "",
+            "ImageId" : "985a60e0-ac6a-4249-99ec-2b5e10bdd330"
+          }
+        },
+        {
+          "Kids Choice" : {
+            "Name" : "Kids Choice",
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "ImageId" : "c9d4dac6-1845-42e6-920c-f2e7ca149cbf",
+            "Desc" : "",
+            "Price" : false,
+            "Id" : "44D44CD7-B398-49C4-875B-E466C1F93B94",
+            "SortOrder" : 9,
+            "MealCode" : "PKIDS"
+          }
+        },
+        {
+          "Chocolate Almonds" : {
+            "Price" : false,
+            "ImageId" : "6ae7c429-28da-471d-8e4d-cf550dff7432",
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "MealCode" : "",
+            "Id" : "517CE103-B746-40E8-993F-C23ED8B753FA",
+            "SortOrder" : 15,
+            "Name" : "Chocolate Almonds",
+            "Desc" : ""
+          }
+        },
+        {
+          "Popcorn" : {
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Name" : "Popcorn",
+            "ImageId" : "ccb36577-0813-412c-ae7d-a65d65737ec7",
+            "Desc" : "",
+            "Price" : false,
+            "Id" : "5A5E7B07-DD47-4919-B729-A27ECACAD06D",
+            "SortOrder" : 11,
+            "MealCode" : ""
+          }
+        },
+        {
+          "Breakfast Protein Platter" : {
+            "Desc" : "",
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "SortOrder" : 3,
+            "Name" : "Breakfast Protein Platter",
+            "Price" : false,
+            "MealCode" : "40071",
+            "ImageId" : "9881248a-492d-4f29-814c-ae0d159b50bd",
+            "Id" : "5CD21951-5364-43A4-BEC8-883E920BE8FD"
+          }
+        },
+        {
+          "Deli Picnic Pack" : {
+            "Id" : "64710074-C730-40DE-9B7F-3E5DE0698185",
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "MealCode" : "PDELI",
+            "SortOrder" : 7,
+            "Name" : "Deli Picnic Pack",
+            "Desc" : "",
+            "ImageId" : "29c9f330-e15a-4cc2-87b6-530c4b8d61a3",
+            "Price" : false
+          }
+        },
+        {
+          "Lunch\/Dinner Protein Platter" : {
+            "ImageId" : "d8c0957f-1956-48c3-87cf-8efa0610fef2",
+            "Id" : "BE930B4C-32B6-4910-8BF5-C1915D1CFBBD",
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Name" : "Lunch\/Dinner Protein Platter",
+            "Price" : false,
+            "SortOrder" : 5,
+            "Desc" : "",
+            "MealCode" : "40072"
+          }
+        },
+        {
+          "Salad" : {
+            "SortOrder" : 6,
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Desc" : "",
+            "ImageId" : "5bb24028-9ecb-4d5b-a1b7-eae086b5488f",
+            "Name" : "Salad",
+            "Price" : false,
+            "Id" : "BEAE1C58-A18C-4825-AE88-690AF693C507",
+            "MealCode" : "40066"
+          }
+        },
+        {
+          "Cheese Platter" : {
+            "Name" : "Cheese Platter",
+            "Desc" : "",
+            "Id" : "C8E72397-545E-4A96-8FBB-0C6415734F4A",
+            "SortOrder" : 1,
+            "ImageId" : "f555b5e4-8ba5-482f-a784-a881300c0f09",
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "MealCode" : "40013",
+            "Price" : false
+          }
+        },
+        {
+          "Breakfast Wrap\/Sandwich" : {
+            "MealCode" : "40040",
+            "Id" : "D3FD958D-EBD8-4793-856F-CA908486A0FF",
+            "Desc" : "",
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "Name" : "Breakfast Wrap\/Sandwich",
+            "Price" : false,
+            "ImageId" : "0fdc20ef-8517-4db5-a987-24201c412db4",
+            "SortOrder" : 2
+          }
+        },
+        {
+          "Med Tapas" : {
+            "MealCode" : "PTAPAS",
+            "Price" : false,
+            "Id" : "F6605ADB-6EE2-44AB-9832-7CA8D3819EB6",
+            "ImageId" : "25402aac-3642-4c07-a6b8-082df1f84eb8",
+            "Desc" : "",
+            "Name" : "Med Tapas",
+            "CategoryId" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+            "SortOrder" : 8
+          }
+        }
+      ],
+      "Id" : "B2203F54-9A90-4C6E-BF64-BCD7AAC78BCD",
+      "ImageId" : "3dfee5af-1877-4b46-9e33-65274c159e8c",
+      "Name" : "Eat"
+    },
+    "Extra" : {
+      "Id" : "42DB3D40-BA93-4A08-845C-CCFF6984D399",
+      "Name" : "Extra",
+      "Desc" : "",
+      "ImageId" : "1d1378ba-86b3-4fc0-a0b6-4c7729a2965f",
+      "Products" : [
+        {
+          "Earbuds" : {
+            "Name" : "Earbuds",
+            "Desc" : "",
+            "Id" : "18A6F744-6613-40FA-B995-7208F470D024",
+            "Price" : false,
+            "SortOrder" : 0,
+            "CategoryId" : "42DB3D40-BA93-4A08-845C-CCFF6984D399",
+            "ImageId" : "3ec32507-4504-4ad2-992d-493d06342547",
+            "MealCode" : ""
+          }
+        },
+        {
+          "Premium Class" : {
+            "Desc" : "",
+            "SortOrder" : 23,
+            "Name" : "Premium Class",
+            "CategoryId" : "42DB3D40-BA93-4A08-845C-CCFF6984D399",
+            "Price" : false,
+            "MealCode" : "",
+            "Id" : "24E113FF-E2F4-4260-8DCC-C95EFA9764BE",
+            "ImageId" : "6625484c-9404-40e6-9e8d-941695af0d78"
+          }
+        }
+      ]
+    },
+    "Drink" : {
+      "Products" : [
+        {
+          "Red Wine" : {
+            "Desc" : "",
+            "CategoryId" : "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "MealCode" : "REDWINE",
+            "Price" : false,
+            "Name" : "Red Wine",
+            "Id" : "49684DC9-CE86-4732-8BB5-6006CF5A522F",
+            "SortOrder" : 19,
+            "ImageId" : "480d3c11-0c86-4047-be45-90b202944b19"
+          }
+        },
+        {
+          "Sparkling Wine" : {
+            "Desc" : "",
+            "MealCode" : "",
+            "ImageId" : "ea5e1f57-9e93-43ec-b63f-406f6c8e3679",
+            "CategoryId" : "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "SortOrder" : 21,
+            "Id" : "5AAB8490-1EEB-4566-B1F1-650E7EA11829",
+            "Price" : false,
+            "Name" : "Sparkling Wine"
+          }
+        },
+        {
+          "Beer" : {
+            "MealCode" : "BEER",
+            "CategoryId" : "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "SortOrder" : 18,
+            "Desc" : "",
+            "Price" : false,
+            "Name" : "Beer",
+            "ImageId" : "297b6ba4-1de6-4ff7-a4fb-fc8d7e968db5",
+            "Id" : "5BD6450F-4117-4B7D-A29E-87FB44DD6440"
+          }
+        },
+        {
+          "White Wine" : {
+            "Desc" : "",
+            "Id" : "807DB9EB-C5AB-40A2-A907-3B611B287A40",
+            "ImageId" : "53eae2aa-9ce6-4aa5-86d2-9c74435702e3",
+            "SortOrder" : 20,
+            "Name" : "White Wine",
+            "MealCode" : "WHITEWINE",
+            "Price" : false,
+            "CategoryId" : "68E9766C-6623-4087-BB91-AF7CC1AB72AF"
+          }
+        },
+        {
+          "Liquor" : {
+            "Price" : false,
+            "Desc" : "",
+            "Name" : "Liquor",
+            "MealCode" : "COCKTAILS",
+            "SortOrder" : 17,
+            "CategoryId" : "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+            "Id" : "CFA9B41E-C0E7-4695-AD2A-1E9B40D03886",
+            "ImageId" : "87d57b12-0dec-4378-b63c-f57f0c7187dd"
+          }
+        }
+      ],
+      "Desc" : "",
+      "Name" : "Drink",
+      "Id" : "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
+      "ImageId" : "a532a24f-224f-41e9-b2ca-8577603153ca"
+    }
+  }
+}
