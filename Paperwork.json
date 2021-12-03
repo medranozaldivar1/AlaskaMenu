@@ -1,0 +1,1474 @@
+{
+    "EnableAirTalk": true,
+    "EnableCardOnFile": true,
+    "EnableOnboardSales": true,
+    "EnablePassengerPreferredName": false,
+    "FlightCrew": {
+        "Members": [
+            {
+                "DisplayName": "Name01 LastName01",
+                "FirstName": "Name01",
+                "Id": "9000001",
+                "IsDeadhead": false,
+                "LastName": "LastName01",
+                "MiddleName": "",
+                "Position": "FB",
+                "PreferredName": "Name01"
+            },
+            {
+                "DisplayName": "Name02 LastName02",
+                "FirstName": "Name02",
+                "Id": "9000002",
+                "IsDeadhead": false,
+                "LastName": "LastName02",
+                "MiddleName": "",
+                "Position": "FC",
+                "PreferredName": "Name02"
+            },
+            {
+                "DisplayName": "Name03 LastName03",
+                "FirstName": "Name03",
+                "Id": "9000003",
+                "IsDeadhead": false,
+                "LastName": "LastName03",
+                "MiddleName": "",
+                "Position": "CA",
+                "PreferredName": "Name03"
+            }
+        ]
+    },
+    "FlightDetails": {
+        "AirlineCode": "AS",
+        "ArrivalAirportCode": "DFW",
+        "DepartureAirportCode": "SEA",
+        "DepartureDate": "2021-12-02",
+        "FlightNumber": "716"
+    },
+    "FlightInfo": {
+        "Aircraft": "737-900",
+        "AircraftDisplayName": "Boeing 737-900",
+        "AuthorizedCoach": 162,
+        "AuthorizedFirst": 16,
+        "AvailableCoach": 4,
+        "AvailableFirst": 0,
+        "BoardingStatus": "BOARDING_STATUS_PDC2",
+        "BookedCoach": 158,
+        "BookedCoachNonRev": 4,
+        "BookedFirst": 16,
+        "BookedFirstNonRev": 0,
+        "EquipmentType": "73J",
+        "TotalOnBoardCoach": 162,
+        "TotalOnBoardFirst": 16
+    },
+    "FlightPaxList": {
+        "Passengers": [
+            {
+                "Boarded": true,
+                "Cabin": "Y",
+                "Codes": null,
+                "Conx": null,
+                "FFAirline": null,
+                "FFNumber": "1111110",
+                "FFType": null,
+                "First": "Joe",
+                "Group": null,
+                "IsRevenue": true,
+                "Last": "Doe",
+                "Mask": false,
+                "MillionMiler": 0,
+                "Paid": false,
+                "PriorityCode": null,
+                "SSRs": [],
+                "Seat": "27F",
+                "Thru": null
+            },
+            {
+                "Boarded": true,
+                "Cabin": "Y",
+                "Codes": null,
+                "Conx": null,
+                "FFAirline": null,
+                "FFNumber": "1111111",
+                "FFType": null,
+                "First": "Jane",
+                "Group": null,
+                "IsRevenue": true,
+                "Last": "Doe",
+                "Mask": false,
+                "MillionMiler": 0,
+                "Paid": false,
+                "PriorityCode": null,
+                "SSRs": [],
+                "Seat": "25E",
+                "Thru": null
+            }
+        ],
+        "TotalAisleChair": 0,
+        "TotalInfant": 0,
+        "TotalSpecialServiceRequests": 45,
+        "TotalUMNR": 0,
+        "TotalWheelChair": 2
+    },
+    "FlightSeatmap": {
+        "Advisory": "",
+        "Aircraft": "Boeing 737-900 (Winglets)",
+        "ArrivalInfo": null,
+        "CabinSeatMaps": [
+            {
+                "AislesAfterColumns": "C",
+                "Cabin": "First",
+                "ColumnLetters": "A,C,D,F",
+                "SeatMapRows": [
+                    {
+                        "Codes": "",
+                        "Num": "",
+                        "Seats": [
+                            {
+                                "Codes": "LAV",
+                                "Num": "A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "LAV",
+                                "Num": "C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "EXITLEFT,EXITRIGHT",
+                        "Num": "",
+                        "Seats": [
+                            {
+                                "Codes": "NONE",
+                                "Num": "A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "",
+                        "Seats": [
+                            {
+                                "Codes": "NONE",
+                                "Num": "A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "GAL",
+                                "Num": "D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "GAL",
+                                "Num": "F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "1",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "1A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "1C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "1D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "1F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "2",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "2A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "2C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "2D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "2F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "3",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "3A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "3C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "3D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "3F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "4",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "4A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "4C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "4D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "4F",
+                                "Price": null
+                            }
+                        ]
+                    }
+                ],
+                "SegmentIndex": ""
+            },
+            {
+                "AislesAfterColumns": "C",
+                "Cabin": "Coach",
+                "ColumnLetters": "A,B,C,D,E,F",
+                "SeatMapRows": [
+                    {
+                        "Codes": "",
+                        "Num": "6",
+                        "Seats": [
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "6A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "6B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "6C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "6D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "6E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "6F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "7",
+                        "Seats": [
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "7A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "7B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "7C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "7D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "7E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "7F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "8",
+                        "Seats": [
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "8A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "8B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "8C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "8D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "8E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "8F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "9",
+                        "Seats": [
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "9A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "9B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "9C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "9D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "9E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "PCLA,PREM,OCCD",
+                                "Num": "9F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "10",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "10A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "10B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "10C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "10D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "10E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "10F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "11",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "11A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "11B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "11C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "11D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "11E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "11F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "WING",
+                        "Num": "12",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "12A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "12B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "12C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "12D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "12E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "12F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "WING",
+                        "Num": "13",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "13A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "13B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "13C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "13D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "13E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "13F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "WING",
+                        "Num": "15",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "15A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "15B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "15C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "15D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "15E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "15F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "EXITLEFT,EXITRIGHT,WING",
+                        "Num": "16",
+                        "Seats": [
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "16A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "16B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "16C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "16D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "16E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "16F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "EXITLEFT,EXITRIGHT,WING",
+                        "Num": "17",
+                        "Seats": [
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "17A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "17B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "17C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "17D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "17E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "EXIT,OCCD",
+                                "Num": "17F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "WING",
+                        "Num": "18",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "18A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "18B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "18C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "18D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "18E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "18F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "WING",
+                        "Num": "19",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "19A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "19B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "19C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "19D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "19E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "19F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "WING",
+                        "Num": "20",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "20A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "20B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "20C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "20D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "20E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "20F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "WING",
+                        "Num": "21",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "21A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "21B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "21C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "21D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "21E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "21F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "WING",
+                        "Num": "22",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "22A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "22B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "22C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "22D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "22E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "22F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "23",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "23A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "23B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "23C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "23D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "23E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "23F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "24",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "24A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "24B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "24C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "24D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "24E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "24F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "25",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "25A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "25B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "25C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "25D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "25E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "25F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "26",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "26A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "26B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "26C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "26D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "26E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "26F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "27",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "27A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "27B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "27C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "27D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "27E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "27F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "28",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "28A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "28B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "28C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "28D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "28E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "28F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "29",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "29A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "29B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "29C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "29D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "29E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "29F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "30",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "30A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "30B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "30C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "30D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "30E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "30F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "31",
+                        "Seats": [
+                            {
+                                "Codes": "OCCD",
+                                "Num": "31A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "31B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "31C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "31D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "31E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "31F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "32",
+                        "Seats": [
+                            {
+                                "Codes": "UMNR,OCCD",
+                                "Num": "32A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "UMNR,OCCD",
+                                "Num": "32B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "UMNR,OCCD",
+                                "Num": "32C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "UMNR,OCCD",
+                                "Num": "32D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "UMNR,OCCD",
+                                "Num": "32E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "UMNR,OCCD",
+                                "Num": "32F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "33",
+                        "Seats": [
+                            {
+                                "Codes": "NONE",
+                                "Num": "A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "33D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "33E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "33F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "34",
+                        "Seats": [
+                            {
+                                "Codes": "NONE,LAV",
+                                "Num": "A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE,LAV",
+                                "Num": "B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE,LAV",
+                                "Num": "C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "34D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "34E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "OCCD",
+                                "Num": "34F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "",
+                        "Seats": [
+                            {
+                                "Codes": "LAV",
+                                "Num": "A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "LAV",
+                                "Num": "B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "LAV",
+                                "Num": "C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "LAV",
+                                "Num": "D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "LAV",
+                                "Num": "E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "LAV",
+                                "Num": "F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "EXITLEFT,EXITRIGHT",
+                        "Num": "",
+                        "Seats": [
+                            {
+                                "Codes": "NONE",
+                                "Num": "A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "NONE",
+                                "Num": "F",
+                                "Price": null
+                            }
+                        ]
+                    },
+                    {
+                        "Codes": "",
+                        "Num": "",
+                        "Seats": [
+                            {
+                                "Codes": "GAL",
+                                "Num": "A",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "GAL",
+                                "Num": "B",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "GAL",
+                                "Num": "C",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "GAL",
+                                "Num": "D",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "GAL",
+                                "Num": "E",
+                                "Price": null
+                            },
+                            {
+                                "Codes": "GAL",
+                                "Num": "F",
+                                "Price": null
+                            }
+                        ]
+                    }
+                ],
+                "SegmentIndex": ""
+            }
+        ],
+        "CanChangeSeats": true,
+        "DepartureInfo": null,
+        "DisplayCarrier": null,
+        "IsPreferredPlusEligible": false,
+        "Legend": null,
+        "MarketedBy": null,
+        "OperatedBy": null,
+        "PreferredPlusSeats": "",
+        "PreferredPlusSeatsAvailable": 0,
+        "PremiumClassSeatsAvailable": 0,
+        "Source": "PRS-SeatService"
+    },
+    "FlightServiceLevel": {
+        "MainServices": [
+            "Pre-order delivered prior to service",
+            "First cart service paired with retail cart",
+            "Second cart - beverages only"
+        ]
+    },
+    "InflightInfo": null,
+    "IsThruFlight": false,
+    "PaperworkType": "FINAL",
+    "PaxConnectionInfo": {
+        "Airlines": [],
+        "Airports": []
+    },
+    "ReservedMeals": [
+        {
+            "Cabin": "Y",
+            "Mask": false,
+            "MealCodes": [
+                "40013"
+            ],
+            "Meals": [
+                "Signature Fruit & Cheese Platter"
+            ],
+            "OrderReferenceId": "16-SEA-DFW-2021-12-02-AFLRAZ",
+            "PassengerName": "Jane Doe",
+            "Seat": "25E"
+        }
+    ],
+    "SupportsEliteRecognition": true
+}
