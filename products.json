@@ -263,7 +263,7 @@
             "MealCode": null,
             "Name": "Potato Chips",
             "Price": 2.00,
-            "SortOrder": 10
+            "SortOrder": 10,
             "Quantity": 25
         },
         {
@@ -275,7 +275,7 @@
             "MealCode": "40083",
             "Name": "Lunch/Dinner Sandwich/Wrap",
             "Price": 9.50,
-            "SortOrder": 4
+            "SortOrder": 4,
             "Quantity": 25
         },
         {
@@ -287,7 +287,7 @@
             "MealCode": null,
             "Name": "Earbuds",
             "Price": 3.00,
-            "SortOrder": 0
+            "SortOrder": 0,
             "Quantity": 25
         },
         {
@@ -299,7 +299,7 @@
             "MealCode": null,
             "Name": "Premium Class",
             "Price": 69.00,
-            "SortOrder": 23
+            "SortOrder": 23,
             "Quantity": 25
         },
         {
@@ -311,7 +311,8 @@
             "MealCode": "PKIDS",
             "Name": "Kids Choice",
             "Price": 6.50,
-            "SortOrder": 9
+            "SortOrder": 9,
+            "Quantity": 25
         },
         {
             "CategoryId": "68E9766C-6623-4087-BB91-AF7CC1AB72AF",
@@ -322,7 +323,7 @@
             "MealCode": "REDWINE",
             "Name": "Red Wine",
             "Price": 7.50,
-            "SortOrder": 19
+            "SortOrder": 19,
             "Quantity": 25
         },
         {
@@ -334,7 +335,7 @@
             "MealCode": null,
             "Name": "Chocolate Almonds",
             "Price": 3.00,
-            "SortOrder": 15
+            "SortOrder": 15,
             "Quantity": 25
         },
         {
@@ -346,7 +347,7 @@
             "MealCode": null,
             "Name": "Popcorn",
             "Price": 2.00,
-            "SortOrder": 11
+            "SortOrder": 11,
             "Quantity": 25
         },
         {
@@ -358,7 +359,7 @@
             "MealCode": null,
             "Name": "Sparkling Wine",
             "Price": 8.50,
-            "SortOrder": 21
+            "SortOrder": 21,
             "Quantity": 25
         },
         {
@@ -370,7 +371,7 @@
             "MealCode": "BEER",
             "Name": "Beer",
             "Price": 7.50,
-            "SortOrder": 18
+            "SortOrder": 18,
             "Quantity": 25
         },
         {
@@ -394,7 +395,7 @@
             "MealCode": "PDELI",
             "Name": "Deli Picnic Pack",
             "Price": 6.50,
-            "SortOrder": 7
+            "SortOrder": 7,
             "Quantity": 25
         },
         {
@@ -406,7 +407,7 @@
             "MealCode": "WHITEWINE",
             "Name": "White Wine",
             "Price": 7.50,
-            "SortOrder": 20
+            "SortOrder": 20,
             "Quantity": 25
         },
         {
@@ -418,7 +419,7 @@
             "MealCode": "40072",
             "Name": "Lunch/Dinner Protein Platter",
             "Price": 9.50,
-            "SortOrder": 5
+            "SortOrder": 5,
             "Quantity": 25
         },
         {
@@ -430,7 +431,7 @@
             "MealCode": "40066",
             "Name": "Salad",
             "Price": 9.50,
-            "SortOrder": 6
+            "SortOrder": 6,
             "Quantity": 25
         },
         {
@@ -442,7 +443,7 @@
             "MealCode": "40013",
             "Name": "Cheese Platter",
             "Price": 8.50,
-            "SortOrder": 1
+            "SortOrder": 1,
             "Quantity": 25
         },
         {
@@ -454,7 +455,7 @@
             "MealCode": "COCKTAILS",
             "Name": "Liquor",
             "Price": 7.50,
-            "SortOrder": 17
+            "SortOrder": 17,
             "Quantity": 25
         },
         {
@@ -466,7 +467,7 @@
             "MealCode": "40040",
             "Name": "Breakfast Wrap/Sandwich",
             "Price": 8.50,
-            "SortOrder": 2
+            "SortOrder": 2,
             "Quantity": 25
         },
         {
@@ -478,7 +479,7 @@
             "MealCode": "PTAPAS",
             "Name": "Med Tapas",
             "Price": 6.50,
-            "SortOrder": 8
+            "SortOrder": 8,
             "Quantity": 25
         }
     ],
